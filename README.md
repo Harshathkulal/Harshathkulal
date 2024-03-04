@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshathkulal&label=Profile%20views&color=0e75b6&style=flat" alt="harshathkulal" /> </p>
 
-- 🌱 I’m currently learning **React,Angular**
+- 🌱 I’m currently learning **React,NextJs**
 
 - 👨‍💻 Find My Portfolio [[https://github.com/Harshathkulal](https://github.com/Harshathkulal)](https://hk-portfo.vercel.app/)
 
