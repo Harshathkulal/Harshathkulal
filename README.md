@@ -1,14 +1,18 @@
-![logo](https://github.com/Harshathkulal/Harshathkulal/blob/main/Harshath_banner.png)
-<h1 align="center">Hi 👋, I'm Harshath M Kulal</h1>
-<h3 align="center">A passionate Web Developer from India</h3>
+![hARSHATH kULAL](https://github.com/Harshathkulal/Harshathkulal/assets/130536991/fe0308bf-6c53-4412-a3bb-1e56abb30849)
+<h1 align="center">Hi 👋, I'm Harshath Kulal</h1>
+<h3 align="center">A React Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshathkulal&label=Profile%20views&color=0e75b6&style=flat" alt="harshathkulal" /> </p>
 
-- 🌱 I’m currently learning **React,NextJs**
+- 🌱 I’m currently Working in **React.Js**
 
-- 👨‍💻 Find My Portfolio [[https://github.com/Harshathkulal](https://github.com/Harshathkulal)](https://hk-portfo.vercel.app/)
+- 👨‍💻 I’m currently learning Next.Js
 
-- ⚡ Fun fact **I am Mechanical Engineer By Degree**
+- 💬 Familiar  with Python,MongoDB,Javascript,Firebase
+
+- 📝 All of my projects are available at [[https://github.com/Harshathkulal](https://github.com/Harshathkulal)](https://hk-portfo.vercel.app/)
+
+- ⚡ Fun fact I am open to Work and Collabartion!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
