@@ -1,6 +1,6 @@
 ![hARSHATH kULAL](https://github.com/Harshathkulal/Harshathkulal/assets/130536991/fe0308bf-6c53-4412-a3bb-1e56abb30849)
 <h1 align="center">Hi 👋, I'm Harshath Kulal</h1>
-<h3 align="center">A React Developer from India</h3>
+<h3 align="center">I Code on my free time</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshathkulal&label=Profile%20views&color=0e75b6&style=flat" alt="harshathkulal" /> </p>
 
@@ -8,7 +8,7 @@
 
 - 👨‍💻 I’m currently learning Next.Js
 
-- 💬 Familiar  with Python,MongoDB,Javascript,Firebase
+- 💬 Familiar  with Python,MongoDB,Javascript,Firebase,Tailwind,Expressjs.
 
 - 📝 All of my projects are available at [[https://github.com/Harshathkulal](https://github.com/Harshathkulal)](https://hk-portfo.vercel.app/)
 
