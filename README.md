@@ -1,12 +1,12 @@
 # Harshath Kulal
 
-Full Stack Developer Specialized in Frontend and UI/UX
+React Frontend Developer with a pinch of Full-stack knowledge
 
-Portfolio: https://harshath.vercel.app/
+Portfolio: [harshath.dev](https://harshath.vercel.app/)
 
 ## Get in Touch
 
-I am open to collaborations and freelance opportunities. Feel free to reach out to me via email at harshathmkulal@gmail.com, [LinkedIn](https://www.linkedin.com/in/harshath-kulal-ba078b209), [Twitter](https://x.com/HxrshxK)
+I am open to full-time opportunities and collaborations. Feel free to reach out to me via email at harshathmkulal@gmail.com, [LinkedIn](https://www.linkedin.com/in/harshath-kulal-ba078b209), [Twitter](https://x.com/HxrshxK)
 
 
 ## Skills
@@ -15,9 +15,9 @@ I am open to collaborations and freelance opportunities. Feel free to reach out 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="30" width="42" alt="typescript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" width="42" alt="react logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" width="42" alt="mongodb logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" width="42" alt="nodejs logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" height="30" width="42" alt="nextjs logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" width="42" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" width="42" alt="mongodb logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="30" width="42" alt="postgresql logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" height="30" width="42" alt="azuredevops logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="30" width="42" alt="amazonwebservices logo" />
