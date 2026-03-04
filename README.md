@@ -1,11 +1,8 @@
 # Harshath Kulal
 
-ui/ux • backend • devops
-
-work: [harshath.in](https://www.harshath.in/)
+Work: [harshath.in](https://www.harshath.in/)
 
 ### Get in Touch
-Feel free to reach out ⌛️
 
 [Gmail](harshathmkulal@gmail.com) | [LinkedIn](https://www.linkedin.com/in/harshath-kulal-ba078b209) | [Twitter](https://x.com/HxrshxK)
 
